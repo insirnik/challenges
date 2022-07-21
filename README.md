@@ -1,6 +1,13 @@
 # Challenges
 
-**TODO: Add description**
+**TODO: How to run **
+```
+mix deps.get 
+mix test
+iex -S mix  
+Challenges.MatchingEngine.import_order_from_json_file "input.json"
+```
+
 
 ## Installation
 
